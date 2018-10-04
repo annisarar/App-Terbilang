@@ -1,0 +1,5 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang1\bin\Debug\LibraryTerbilang1.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang1\bin\Debug\LibraryTerbilang1.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang1\obj\Debug\LibraryTerbilang1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang1\obj\Debug\LibraryTerbilang1.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktek\Tugas praktek\Terbilang\Terbilang\LibraryTerbilang1\obj\Debug\LibraryTerbilang1.pdb
